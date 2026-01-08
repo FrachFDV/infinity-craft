@@ -1,2 +1,2 @@
 # infinity-craft
-Infinity craft
+This is Infinity craft
